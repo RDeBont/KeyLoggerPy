@@ -10,7 +10,7 @@ I'm learning Python and thought this would be a good beginner project. While cha
 
 ## Discord Viewer Information
 
-![Discord Viewer Info](ViewDC.png)  
+![Discord Viewer Info](img/ViewDC.png)  
 *Screenshot showing Discord viewer information*
 
 ## evelopment Journey
