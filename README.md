@@ -17,9 +17,6 @@ I'm learning Python and thought this would be a good beginner project. While cha
 
 - Started with the assumption this would be very difficult to implement
 - Used AI for some complex parts where I got stuck
-- Originally created a more stealthy version, but chose not to publish it because:
-  - It contained malware-like functionality
-  - The current version is detectable (unlike that version, Sometimes it would be pick up but somtimes not)
 
 ## Technical Details
 
